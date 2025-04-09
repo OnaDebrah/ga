@@ -1,0 +1,4 @@
+Working directory: $ProjectFileDir$
+Script path: src/main/python/main.py
+Python interpreter: Your Python path
+Program arguments: --assets 100 --generations 50 --verbose True

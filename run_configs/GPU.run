@@ -1,0 +1,2 @@
+export PATH=/usr/local/cuda:$PATH
+export LD_LIBRARY_PATH=/usr/local/cuda/lib:$LD_LIBRARY_PATH
