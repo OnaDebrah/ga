@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IntelliJ IDEA / PyCharm
+.idea/
+*.iml
+*.iws
+out/
+
+# PyCharm Notebooks
+.ipynb_checkpoints/
+
+# Logs and local config
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.env
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy and Pylint cache
+.mypy_cache/
+.pyre/
+.pytype/
+pylint-report.txt
+
+# C extensions
+*.so
